@@ -1,0 +1,4 @@
+name: UltimateFreeze
+version: '${project.version}'
+main: com.bghddevelopment.ultimatefreeze.UltimateFreeze
+api-version: 1.18
